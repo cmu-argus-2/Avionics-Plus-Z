@@ -48,16 +48,10 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2032
+          "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -116,21 +110,21 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.14732,
-        "min_connection": 0.2032,
-        "min_copper_edge_clearance": 0.37592,
-        "min_hole_clearance": 0.254,
-        "min_hole_to_hole": 0.254,
-        "min_microvia_diameter": 0.6096,
-        "min_microvia_drill": 0.3048,
+        "min_clearance": 0.0,
+        "min_connection": 0.0,
+        "min_copper_edge_clearance": 0.5,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
+        "min_microvia_diameter": 0.2,
+        "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.508,
-        "min_text_thickness": 0.1016,
-        "min_through_hole_diameter": 0.254,
-        "min_track_width": 0.2032,
-        "min_via_annular_width": 0.127,
-        "min_via_diameter": 0.508,
+        "min_text_height": 0.8,
+        "min_text_thickness": 0.08,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.0,
+        "min_via_annular_width": 0.1,
+        "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -177,9 +171,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -206,12 +198,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -413,7 +400,7 @@
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
-      "endpoint_off_grid": "ignore",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
@@ -429,8 +416,8 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "ignore",
-      "power_pin_not_driven": "ignore",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",
@@ -444,26 +431,26 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Z+.kicad_pro",
+    "filename": "LightSensorBreakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.14732,
-        "diff_pair_gap": 0.1524,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.128016,
+        "diff_pair_width": 0.2,
         "line_style": 0,
-        "microvia_diameter": 0.6096,
-        "microvia_drill": 0.3048,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
-        "via_diameter": 0.508,
-        "via_drill": 0.254,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -479,10 +466,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Gerbers/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../Board Models/Z+ SolarPanels.step",
+      "step": "",
       "svg": "",
       "vrml": ""
     },
@@ -549,78 +536,6 @@
         },
         {
           "group_by": false,
-          "label": "DIS",
-          "name": "DIS",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "DNI",
-          "name": "DNI",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "DPN",
-          "name": "DPN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Flight",
-          "name": "Flight",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MFR",
-          "name": "MFR",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Name",
-          "name": "Manufacturer_Name",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Part_Number",
-          "name": "Manufacturer_Part_Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mfr. #",
-          "name": "Mfr. #",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Order",
-          "name": "Order",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Proto",
-          "name": "Proto",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Voltage",
-          "name": "Voltage",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
@@ -673,96 +588,8 @@
   },
   "sheets": [
     [
-      "977a45af-b6d4-4b54-8e70-e74e2c44e8e7",
+      "08710a52-ff53-4f29-a0eb-df35885bf911",
       "Root"
-    ],
-    [
-      "b70600bb-f4e5-4c3a-888e-a6ccc1706150",
-      "I2C Single Protection3"
-    ],
-    [
-      "7024a7b4-1625-4475-9f0b-f19c27cb6b21",
-      "I2C Single Protection6"
-    ],
-    [
-      "46c875f5-0a1b-485f-98b5-c7e6fa20dd24",
-      "Sun Pyramid"
-    ],
-    [
-      "5d3b9887-96cd-4628-9a8e-d04c56fc3938",
-      "I2C Single Protection7"
-    ],
-    [
-      "540f2f39-cb77-4d16-82f8-b8dbe6775262",
-      "Charge OR-ing2"
-    ],
-    [
-      "bc31f1ea-1b2a-44a8-9545-3b4dda72db3a",
-      "Coil Driver"
-    ],
-    [
-      "e3addb0c-ad92-4bf1-b853-f1e12983e52d",
-      "I2C Single Protection1"
-    ],
-    [
-      "36073939-d3b3-4a2f-b3bf-7b23c883bf7b",
-      "I2C Single Protection2"
-    ],
-    [
-      "3495d2a7-7425-4e27-a34a-beb5018fad2a",
-      "Solar Charger"
-    ],
-    [
-      "da1acfbe-9fa7-42e1-87e1-6085a640b36c",
-      "MPPT2"
-    ],
-    [
-      "979fdb72-dede-48b5-98e6-69b7d05ff013",
-      "I2C Single Protection4"
-    ],
-    [
-      "e7beddf0-7c89-4dd8-bded-100f0d524c95",
-      "I2C Single Protection5"
-    ],
-    [
-      "9d713f77-16de-4bd5-950c-8113cf32056f",
-      "I2C Single Protection8"
-    ],
-    [
-      "bd1c17fd-fe5f-429c-9de7-9485a069fd0c",
-      "I2C Single Protection9"
-    ],
-    [
-      "39dc98f1-40e5-485a-98a7-bf3faba682a9",
-      "I2C Single Protection10"
-    ],
-    [
-      "47c1bbcc-d9b9-4d88-af2f-a3bbf1c9c35d",
-      "I2C Single Protection11"
-    ],
-    [
-      "2db1c754-21e1-4990-ad9c-e777042c4939",
-      "I2C Single Protection12"
-    ],
-    [
-      "b6bfee39-d8ca-44aa-81ae-9b58f0cb7312",
-      "Interfaces"
-    ],
-    [
-      "cc96cc92-acba-4a86-9ae6-91a63c806798",
-      "RBF"
-    ],
-    [
-      "d19aa294-c342-4caf-a80a-d853bcca04ba",
-      "Mainboard FPC"
-    ],
-    [
-      "d02b8e26-279c-4640-8a23-48602a29a263",
-      "USB-C"
-    ],
-    [
-      "a7fcac7a-6016-49eb-a618-a0d58637dac7",
-      "I2C Translator"
     ]
   ],
   "text_variables": {}

@@ -1051,7 +1051,7 @@
 		)
 	)
 	(sheet
-		(at 107.95 73.66)
+		(at 106.68 55.88)
 		(size 20.32 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -1063,7 +1063,7 @@
 		)
 		(uuid "3495d2a7-7425-4e27-a34a-beb5018fad2a")
 		(property "Sheetname" "Solar Charger"
-			(at 107.95 72.9484 0)
+			(at 106.68 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1072,7 +1072,7 @@
 			)
 		)
 		(property "Sheetfile" "SolarCharger.kicad_sch"
-			(at 107.95 93.2946 0)
+			(at 106.68 75.5146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1089,7 +1089,7 @@
 		)
 	)
 	(sheet
-		(at 108.204 104.394)
+		(at 106.934 86.614)
 		(size 20.066 18.796)
 		(fields_autoplaced yes)
 		(stroke
@@ -1101,7 +1101,7 @@
 		)
 		(uuid "46c875f5-0a1b-485f-98b5-c7e6fa20dd24")
 		(property "Sheetname" "Sun Pyramid"
-			(at 108.204 103.6824 0)
+			(at 106.934 85.9024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1110,7 +1110,7 @@
 			)
 		)
 		(property "Sheetfile" "SunPyramid.kicad_sch"
-			(at 108.204 123.7746 0)
+			(at 106.934 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1127,7 +1127,45 @@
 		)
 	)
 	(sheet
-		(at 107.95 133.35)
+		(at 106.68 143.51)
+		(size 20.32 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a7fcac7a-6016-49eb-a618-a0d58637dac7")
+		(property "Sheetname" "I2C Translator"
+			(at 106.68 142.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "I2C_Translator.kicad_sch"
+			(at 106.68 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Z+"
+				(path "/977a45af-b6d4-4b54-8e70-e74e2c44e8e7"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 115.57)
 		(size 20.32 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -1139,7 +1177,7 @@
 		)
 		(uuid "b6bfee39-d8ca-44aa-81ae-9b58f0cb7312")
 		(property "Sheetname" "Interfaces"
-			(at 107.95 132.6384 0)
+			(at 106.68 114.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1148,7 +1186,7 @@
 			)
 		)
 		(property "Sheetfile" "Interfaces.kicad_sch"
-			(at 107.95 152.9846 0)
+			(at 106.68 135.2046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1165,7 +1203,7 @@
 		)
 	)
 	(sheet
-		(at 107.95 41.91)
+		(at 106.68 24.13)
 		(size 20.32 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -1177,7 +1215,7 @@
 		)
 		(uuid "bc31f1ea-1b2a-44a8-9545-3b4dda72db3a")
 		(property "Sheetname" "Coil Driver"
-			(at 107.95 41.1984 0)
+			(at 106.68 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1186,7 +1224,7 @@
 			)
 		)
 		(property "Sheetfile" "CoilDriver.kicad_sch"
-			(at 107.95 61.5446 0)
+			(at 106.68 43.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
