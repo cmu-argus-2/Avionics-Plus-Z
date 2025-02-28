@@ -479,7 +479,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Gerbers/",
+      "plot": "./Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../Board Models/Z+ SolarPanels.step",
@@ -493,10 +493,10 @@
     "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": ";",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "---",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
       "string_delimiter": "\""
@@ -623,6 +623,66 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey_Part_Number",
+          "name": "DigiKey_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
           "show": false
         }
       ],
