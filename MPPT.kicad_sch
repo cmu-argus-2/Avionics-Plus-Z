@@ -1886,26 +1886,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "GCM188R72A223KA37D"
+		(property "MPN" "C161234"
 			(at 157.48 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/murata-electronics/GCM188R72A223KA37D/490-4782-1-ND/1641701"
-			(at 157.48 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage" "100V"
-			(at 157.48 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,26 +2993,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "GCM188R72A223KA37D"
+		(property "MPN" "C161234"
 			(at 180.34 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/murata-electronics/GCM188R72A223KA37D/490-4782-1-ND/1641701"
-			(at 180.34 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage" "100V"
-			(at 180.34 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)

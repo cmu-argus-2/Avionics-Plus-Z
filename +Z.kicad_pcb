@@ -1049,6 +1049,19 @@
 				)
 			)
 		)
+		(property "MPN" "C844915"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "820afb8c-8cb2-4710-945f-85aee675d0d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/9dc8fe31-d5fc-43f6-9edd-066350d94572")
 		(sheetname "/Sun Pyramid/")
@@ -2800,6 +2813,19 @@
 				)
 			)
 		)
+		(property "MPN" "C844915"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "beb3e586-23a1-4835-960e-1b8834de52be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/ad054fcf-059b-43bd-9675-597e47718552")
 		(sheetname "/Sun Pyramid/")
@@ -3643,6 +3669,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8c42395-3ff4-46c3-9d08-64df4d60c51f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6689,6 +6728,19 @@
 				)
 			)
 		)
+		(property "MPN" "C844915"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "339e2ec3-5e09-47e2-9b52-4c01614284bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/40b1bde0-820d-4e89-9842-7fc368bd0c61")
 		(sheetname "/Sun Pyramid/")
@@ -7397,6 +7449,20 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0145b544-44f5-4767-9692-edf731d611fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a7fcac7a-6016-49eb-a618-a0d58637dac7/bbc8545f-4999-4ad2-8797-a74e02600569")
 		(sheetname "/I2C Translator/")
@@ -7599,6 +7665,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79412434-6815-4366-bc52-34277502154d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -8137,6 +8217,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c568db3-69b1-4c55-87e8-0f5aa0d8e0f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/39dc98f1-40e5-485a-98a7-bf3faba682a9/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection5/")
@@ -8546,6 +8640,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844931"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f77b137c-6f60-4ff3-b198-2fcc724aee27")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -10167,6 +10275,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5baa6e92-ae2b-4e37-8442-a9479bc042e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/e7beddf0-7c89-4dd8-bded-100f0d524c95/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Solar Charger/I2C Single Protection9/")
@@ -10658,6 +10780,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8bfc7555-bd4e-46a9-bc15-3aed6db55011")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -11686,6 +11822,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C531179"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "597c5cef-19c9-4462-af96-6a51142d107d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/b6bfee39-d8ca-44aa-81ae-9b58f0cb7312/57f725ed-3660-4d9f-ae8f-04bf5294a0ca")
 		(sheetname "/Interfaces/")
@@ -11947,6 +12097,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f6ed8517-2c68-496a-a3a6-10617502968f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/ad2f5410-2cfd-49b9-8361-1ee0451eeefe")
 		(sheetname "/Solar Charger/")
@@ -12154,6 +12318,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "651dd15c-9691-4e9b-9d16-24c89b0786ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/9d713f77-16de-4bd5-950c-8113cf32056f/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Sun Pyramid/I2C Single Protection3/")
@@ -12356,6 +12534,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c05c231-788d-42a1-9999-aa4a977a6809")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -13109,6 +13301,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "34661309-01cb-418a-9d57-cf10a2f4a379")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14362,7 +14568,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "LTC3130"
+		(property "Value" "LTC3130IUDC"
 			(at 0 -3.330001 90)
 			(layer "B.Fab")
 			(uuid "e61deaec-3370-4fcd-bcf3-fccfa0fbde78")
@@ -14397,6 +14603,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C684244"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b2dbf569-cbfe-4898-95bf-c9495f608089")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15378,6 +15598,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7757e446-8f02-4e83-8d76-ec4d351c093b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/2db1c754-21e1-4990-ad9c-e777042c4939/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection7/")
@@ -15580,6 +15814,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "977e75c1-52d2-4e1c-a107-e39db05d4530")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15792,49 +16040,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DIS" "Digi-Key"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "92b8ba4a-1e9a-4d77-ada8-84c45f2eb667")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DPN" "311-10.0KHRCT-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c0e2eec7-feda-4a39-82c9-226ba3027b3e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MFR" "Yageo"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "d9bf625a-9955-41aa-a620-176efac464a4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "C2479067"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16050,6 +16256,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a64bdf72-1954-46b9-bbf9-5a68227f56ee")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16464,6 +16684,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f7b8d48-2121-4c4c-b79a-fcd4e3e74c93")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17172,6 +17406,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "31be2095-be92-4c7e-a794-4b91dd9f7e62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/e3addb0c-ad92-4bf1-b853-f1e12983e52d/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Coil Driver/I2C Single Protection10/")
@@ -17378,26 +17626,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "RK73Z1JTTD\r"
-			(at 0 0 270)
+		(property "MPN" "C844915"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "67a50505-0ebe-47f1-b817-e5809c7b33ed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1JTTD/2019-RK73Z1JTTDCT-ND/9847522\r"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "aa9f1d5f-06cc-46f9-bd04-74b0c977384b")
+			(uuid "5458597b-24de-4517-9ee1-6e2b5d1e1b25")
 			(effects
 				(font
 					(size 1 1)
@@ -17902,11 +18136,25 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56c885dc-cffe-41bd-b57f-be667468dc23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/83faa6f7-faff-4d8a-b627-fb9dd2f4e3e3")
 		(sheetname "/Coil Driver/")
 		(sheetfile "CoilDriver.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.237258 -0.5225)
 			(end -0.237258 -0.5225)
@@ -18323,6 +18571,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "97e48385-6cde-450c-8504-db9a42d19f4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19404,6 +19666,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d96773c2-7fd3-4bed-8aee-e8e75793d438")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/39dc98f1-40e5-485a-98a7-bf3faba682a9/b40644e7-751f-4da0-b9d6-1fe73b072507")
 		(sheetname "/Sun Pyramid/I2C Single Protection5/")
@@ -20033,6 +20309,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3b4eb51b-e443-415b-9b38-37ae28ac8ef1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -20680,6 +20970,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C688147"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99c41f58-ea36-4c1b-97b5-92f74ed3a298")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -23085,6 +23389,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c599624c-566c-459b-b18b-c01804f30490")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/9d713f77-16de-4bd5-950c-8113cf32056f/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Sun Pyramid/I2C Single Protection3/")
@@ -23553,6 +23871,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "95bc5a1d-6e61-4e05-8326-f951c039b0ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/7024a7b4-1625-4475-9f0b-f19c27cb6b21/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection1/")
@@ -23755,6 +24087,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "230ccc4c-5770-466a-9c91-c8c218046158")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -24216,6 +24562,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7369b816-a300-4d6e-a72d-850cab079da2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/7024a7b4-1625-4475-9f0b-f19c27cb6b21/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Sun Pyramid/I2C Single Protection1/")
@@ -24423,6 +24783,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1382f020-6d08-4563-98ec-e5576c5c6fd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/bd1c17fd-fe5f-429c-9de7-9485a069fd0c/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Sun Pyramid/I2C Single Protection4/")
@@ -24625,6 +24999,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40dd72c5-5797-436e-b763-953033cc9f6d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25379,6 +25767,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "149cce4b-28e0-46d9-825a-1e0718715790")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26303,6 +26705,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aeef7186-d259-46ea-b0a2-6f997e84f49e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/7024a7b4-1625-4475-9f0b-f19c27cb6b21/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Sun Pyramid/I2C Single Protection1/")
@@ -26793,6 +27209,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f44345f-13f3-4276-8e35-f249a72803a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/36073939-d3b3-4a2f-b3bf-7b23c883bf7b/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Coil Driver/I2C Single Protection11/")
@@ -27221,6 +27651,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a696f142-3b49-4552-84a5-97fe18a1d658")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/36073939-d3b3-4a2f-b3bf-7b23c883bf7b/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Coil Driver/I2C Single Protection11/")
@@ -27423,6 +27867,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a0237c2-910a-4022-87dd-d63d7c6e6734")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27972,6 +28430,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0e5f5307-c4ba-44de-aa4c-07d63126e6d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -28852,40 +29324,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "GCM188R72A223KA37D"
-			(at 0 0 270)
+		(property "MPN" "C161234"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a6aaea1b-0657-46ae-940f-d4ad3be3a8cb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/murata-electronics/GCM188R72A223KA37D/490-4782-1-ND/1641701"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "bac550a9-e7d4-4d2a-91a2-6b2922dd2a9f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Voltage" "100V"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "d163e275-f118-412d-89df-249825c24bf9")
+			(uuid "f636397d-b7b7-44ce-a101-31795feff19d")
 			(effects
 				(font
 					(size 1 1)
@@ -29099,6 +29543,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844915"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6500a87-7771-4f31-ae43-4cde224778f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/ac8ac114-af70-43b5-bb8f-a3ed74fb8ab9")
 		(sheetname "/Coil Driver/")
@@ -29306,6 +29764,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8005f3a5-8ccc-4ce7-8521-2c5595c1a5d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/e3addb0c-ad92-4bf1-b853-f1e12983e52d/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Coil Driver/I2C Single Protection10/")
@@ -29507,6 +29979,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2590"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8579f57b-ef25-4ee7-bff2-217cd794eadd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -30309,40 +30795,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "GCM188R72A223KA37D"
-			(at 0 0 90)
+		(property "MPN" "C161234"
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c695fef5-6842-49c4-9e84-99869bb167cf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/murata-electronics/GCM188R72A223KA37D/490-4782-1-ND/1641701"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "b5ece461-1237-4bf5-8612-9cab94599547")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Voltage" "100V"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "61412dea-c311-40e4-a066-52d59668a7f2")
+			(uuid "6e51c992-31ed-4a4b-ab12-535c17a2245b")
 			(effects
 				(font
 					(size 1 1)
@@ -30773,6 +31231,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63fbb74a-fbcc-4745-a4d0-327fdf12804c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31262,6 +31734,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2484712"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "879a0fbb-1137-429b-82fc-0a535d3ce3cc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31914,6 +32400,20 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5690da24-ae95-41cc-a1ac-34c8e41f105e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a7fcac7a-6016-49eb-a618-a0d58637dac7/9c7f1851-68a8-451f-8f0c-60c4f86d0499")
 		(sheetname "/I2C Translator/")
@@ -32115,6 +32615,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c49707a3-2453-4509-8723-24ec245e8894")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32327,6 +32841,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d8f16d9-cc33-41a8-8981-9df4dbe829f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/47c1bbcc-d9b9-4d88-af2f-a3bbf1c9c35d/b40644e7-751f-4da0-b9d6-1fe73b072507")
 		(sheetname "/Sun Pyramid/I2C Single Protection6/")
@@ -32529,6 +33057,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f70a802b-b132-4f51-b996-36220b5ae960")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32948,6 +33490,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cdb72607-9934-4c5d-ac80-9c018db86ab3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/e3addb0c-ad92-4bf1-b853-f1e12983e52d/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Coil Driver/I2C Single Protection10/")
@@ -33150,6 +33706,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39acbaf0-23e7-4f8c-bebe-ef09d22aed0e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -34474,6 +35044,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "031ffa93-41c1-4578-afbe-8e410f70e72f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/47c1bbcc-d9b9-4d88-af2f-a3bbf1c9c35d/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Sun Pyramid/I2C Single Protection6/")
@@ -34681,49 +35265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DIS" "Digi-Key"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "01f274f9-bf1d-4c1a-8e87-9c5866e2fe12")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DPN" "311-10.0KHRCT-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "21476ab8-393d-483c-bfb8-1a54815b5504")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MFR" "Yageo"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "39ed59b6-17ef-4ec8-9996-a835a5b3e578")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "C2479067"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34939,6 +35481,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ac9e2ac4-5313-4c03-85f9-90083d6812d3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35760,6 +36316,20 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ab075bd1-6ddc-4a52-bcce-76d4562aaf82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/724ee914-7c01-402a-9806-4956d3369b23")
 		(sheetname "/Solar Charger/")
@@ -35962,6 +36532,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aa0c6a8e-bc9a-483b-8a97-d45b4e2dddfd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36174,6 +36758,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b79e72d4-17a3-4cfd-9c52-ddc7b4e777b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/5d3b9887-96cd-4628-9a8e-d04c56fc3938/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Sun Pyramid/I2C Single Protection2/")
@@ -36375,6 +36973,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6fbc03b6-5589-4f16-8e99-8d1199333bd8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36587,6 +37199,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "31838270-c683-45fc-b891-7254f322d3ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/7024a7b4-1625-4475-9f0b-f19c27cb6b21/b40644e7-751f-4da0-b9d6-1fe73b072507")
 		(sheetname "/Sun Pyramid/I2C Single Protection1/")
@@ -36794,11 +37420,25 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fcd08aa1-c09f-4cd7-b8e2-bc8790ac53b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/6596f1e7-0e59-40d9-b527-42666a98ef2b")
 		(sheetname "/Coil Driver/")
 		(sheetfile "CoilDriver.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.237258 -0.5225)
 			(end -0.237258 -0.5225)
@@ -37428,6 +38068,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "45cefd90-b757-4b25-a36a-ecaf82967647")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/e7beddf0-7c89-4dd8-bded-100f0d524c95/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Solar Charger/I2C Single Protection9/")
@@ -37941,6 +38595,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844915"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a79e8bf-9c70-4044-9560-2ee163115fd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/b6903c85-52db-47b7-af1c-01c30cd0ae0f")
 		(sheetname "/Coil Driver/")
@@ -38141,6 +38809,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "415defa5-f1fe-4a1c-a0d3-cda8f032e844")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38858,6 +39540,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2222c578-d31c-4c69-a5c5-a5357b5bac71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/5d3b9887-96cd-4628-9a8e-d04c56fc3938/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Sun Pyramid/I2C Single Protection2/")
@@ -39060,6 +39756,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7ef011e5-b7b9-495c-93b9-ebce6c0c517f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -39598,26 +40308,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "RK73Z1JTTD\r"
-			(at 0 0 90)
+		(property "MPN" "C844915"
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e6dc510e-1da8-4749-9fe9-a2585d6a399a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1JTTD/2019-RK73Z1JTTDCT-ND/9847522\r"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "5159be69-56e4-4acb-b990-0f668ab9cec5")
+			(uuid "9ff52d5c-0687-4aa6-b8bf-a85047ea3278")
 			(effects
 				(font
 					(size 1 1)
@@ -40634,6 +41330,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01533ccc-3577-436b-b50f-6ef25040e31f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/5d3b9887-96cd-4628-9a8e-d04c56fc3938/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Sun Pyramid/I2C Single Protection2/")
@@ -40836,6 +41546,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9593ec61-1ca8-41b0-a2ad-d3d0ff48fa1c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -41254,6 +41978,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1b224683-6fa1-4ba3-9c1a-afb33661243c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/979fdb72-dede-48b5-98e6-69b7d05ff013/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Solar Charger/I2C Single Protection8/")
@@ -41461,6 +42199,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C237792"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9181b45a-50f1-4a4a-8745-de23bb0e3929")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/7024a7b4-1625-4475-9f0b-f19c27cb6b21/8df54425-bed5-4408-bb50-3de2c4ba00b4")
 		(sheetname "/Sun Pyramid/I2C Single Protection1/")
@@ -41663,6 +42415,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7340732-6bca-4b3b-b10a-d3337b900064")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42524,6 +43290,20 @@
 				(justify mirror)
 			)
 		)
+		(property "DNI" "DNI"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67719018-8403-433d-8fd4-8c1da32b098e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a7fcac7a-6016-49eb-a618-a0d58637dac7/fddda917-60c4-4a30-8b44-692ee8fe5824")
 		(sheetname "/I2C Translator/")
@@ -42951,6 +43731,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b36b4975-eb83-4390-af97-6bc93228bc4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/bd1c17fd-fe5f-429c-9de7-9485a069fd0c/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection4/")
@@ -43153,6 +43947,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e11767d2-41cd-4190-91b9-dc6a376356dd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -43648,26 +44456,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "RK73Z1JTTD\r"
-			(at 0 0 180)
+		(property "DNI" "DNI"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0aab18d6-bc75-4e77-bc70-bfdd790ff9e3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1JTTD/2019-RK73Z1JTTDCT-ND/9847522\r"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "2059e1e7-8486-4605-8bd6-3b26d4945bff")
+			(uuid "e2071da6-4389-42b5-95d5-e7e4f08bef2d")
 			(effects
 				(font
 					(size 1 1)
@@ -44103,6 +44897,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f96ee493-abcb-4744-94ad-4bfafe5b8872")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/47c1bbcc-d9b9-4d88-af2f-a3bbf1c9c35d/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection6/")
@@ -44304,6 +45112,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb76f266-97cd-4753-bac6-1e4ac7222b19")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -44515,6 +45337,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eda7ae32-6397-4a17-9b94-c3456f68cb07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/e3addb0c-ad92-4bf1-b853-f1e12983e52d/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Coil Driver/I2C Single Protection10/")
@@ -44717,6 +45553,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "85d94db9-c1be-4ab6-89f9-ef49d661b08e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -45535,6 +46385,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "455d92a0-2e46-4a19-affd-5cd0d3b4e31a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -46472,6 +47336,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dc2539f0-dc31-4718-8b12-bf658fb3921a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/bd1c17fd-fe5f-429c-9de7-9485a069fd0c/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Sun Pyramid/I2C Single Protection4/")
@@ -46674,6 +47552,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f079f346-d5bf-410d-9c55-6d7263b750e1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -47327,6 +48219,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cdeb8cce-683f-437d-9195-a976b4fe85f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bc31f1ea-1b2a-44a8-9545-3b4dda72db3a/36073939-d3b3-4a2f-b3bf-7b23c883bf7b/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Coil Driver/I2C Single Protection11/")
@@ -47527,6 +48433,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0f488635-452e-4dbb-a934-44e2ee3e4daf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -47738,6 +48658,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d3bef136-4693-4899-9d00-c3aa82c085ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/b70600bb-f4e5-4c3a-888e-a6ccc1706150/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Sun Pyramid/I2C Single Protection/")
@@ -47940,6 +48874,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8213f40-71a3-423b-9488-d11831a25faa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -48358,6 +49306,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "409d653b-099f-4ad3-928d-c04e68ba4086")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/e7beddf0-7c89-4dd8-bded-100f0d524c95/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Solar Charger/I2C Single Protection9/")
@@ -48558,6 +49520,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844915"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "932820ce-cdd9-4c0f-a21f-9f671b594323")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -49517,6 +50493,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2c21d249-1c06-41ce-8cab-cf6d26ddcd8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3495d2a7-7425-4e27-a34a-beb5018fad2a/979fdb72-dede-48b5-98e6-69b7d05ff013/0ca284b1-bef9-49a1-8068-eecfe90ee046")
 		(sheetname "/Solar Charger/I2C Single Protection8/")
@@ -49717,6 +50707,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C2484712"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49a3fb7d-5550-4abc-826e-4ff232120f51")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -49929,6 +50933,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6fd0a34b-d12d-4d98-8edb-e53c869e6561")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/47c1bbcc-d9b9-4d88-af2f-a3bbf1c9c35d/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Sun Pyramid/I2C Single Protection6/")
@@ -50135,26 +51153,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr. #" "RK73Z1JTTD\r"
-			(at 0 0 180)
+		(property "MPN" "C844915"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5d42c5f7-dedd-4a6d-a744-3a5f6645ef4a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Order" "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1JTTD/2019-RK73Z1JTTDCT-ND/9847522\r"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "4a8ef56d-a04f-46a9-b31b-5a7cde00e185")
+			(uuid "a4743dc9-ebb9-42b4-9ccd-ea95f4a64534")
 			(effects
 				(font
 					(size 1 1)
@@ -50591,6 +51595,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C118142"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "249b1d27-4be0-4301-9153-087a17b77edb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/2db1c754-21e1-4990-ad9c-e777042c4939/5382b64c-ab35-4956-9e36-4b035c831de8")
 		(sheetname "/Sun Pyramid/I2C Single Protection7/")
@@ -50793,6 +51811,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C844802"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c45800f6-939d-4ff7-9788-09911de298d9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -51005,6 +52037,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C844802"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eb722212-0eea-41d6-8c3c-145b2f1faa50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/bd1c17fd-fe5f-429c-9de7-9485a069fd0c/b40644e7-751f-4da0-b9d6-1fe73b072507")
 		(sheetname "/Sun Pyramid/I2C Single Protection4/")
@@ -51207,6 +52253,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C237792"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c050430b-4fb3-45d1-bd39-d79482b7ed4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -51860,6 +52920,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "C2479067"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e64d3354-5c90-4f31-877c-d6c39a99cb00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/46c875f5-0a1b-485f-98b5-c7e6fa20dd24/2db1c754-21e1-4990-ad9c-e777042c4939/4714fc22-39a6-46e9-baa3-e475405469c3")
 		(sheetname "/Sun Pyramid/I2C Single Protection7/")
@@ -52234,7 +53308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.01R"
+		(property "Value" "10m"
 			(at 0 -2.62 90)
 			(layer "B.Fab")
 			(uuid "330c65bf-f88f-4532-8a46-dfdc34183d5b")
@@ -52269,6 +53343,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "C840621"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "296af786-b8ac-4fb5-9dea-7aca6fb173ad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -54128,7 +55216,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "3858.2701 mils"
+		(gr_text "98.0001 mm"
 			(at 91.2044 97.231231 90)
 			(layer "Dwgs.User")
 			(uuid "37e41dd4-1f62-457e-9c75-cdfa9fe631da")
@@ -54165,7 +55253,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "3858.2677 mils"
+		(gr_text "98.0000 mm"
 			(at 150.825201 37.2294 0)
 			(layer "Dwgs.User")
 			(uuid "caaaa74c-e290-4e44-80ee-8e438c885554")
